@@ -1,0 +1,7 @@
+name:BiCondLSTM
+h:60
+dropout:0.5
+b:64
+epochs:70
+vec_dim:100
+vec_name:glove.6B.100d

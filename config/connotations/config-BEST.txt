@@ -1,0 +1,8 @@
+name:BiLSTMRelEmbedderVERB-cn-w7-s4-42w-norm-learn-20r
+h:150
+dropout:0.5
+b:64
+epochs:100
+vec_dim:300
+vec_name:numberbatch-en-19.08-conn-VERB
+use_verb:1

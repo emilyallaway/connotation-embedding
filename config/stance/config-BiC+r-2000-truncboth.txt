@@ -1,0 +1,14 @@
+name:NEW_BiCondAttentionLSTM+R-truncboth
+h:60
+dropout:0.5
+b:64
+epochs:70
+vec_dim:100
+vec_name:glove.6B.100d
+conn_vec_name:connvecs
+conn_vec_dims:300,300,300
+conn_vec_tags:N,A,V
+att:cn
+truncate:2000
+truncate_dev:600
+random:1
